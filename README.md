@@ -1,3 +1,20 @@
+/* ══════════ 5. ICE BLUE / ARCTIC ══════════ */
+.v5{background:linear-gradient(135deg,#000814 0%,#001428 40%,#000c1f 100%);}
+.v5::before{
+  content:'';position:absolute;inset:-60px;
+  background:
+    radial-gradient(ellipse 60% 50% at 40% 50%,rgba(0,100,255,0.3) 0%,transparent 55%),
+    radial-gradient(ellipse 40% 45% at 75% 35%,rgba(0,200,255,0.25) 0%,transparent 50%),
+    radial-gradient(ellipse 50% 30% at 20% 70%,rgba(100,200,255,0.2) 0%,transparent 50%);
+  animation:iceShift 7s ease-in-out infinite alternate;
+}
+@keyframes iceShift{0%{transform:translate(0,0)}100%{transform:translate(10px,-20px)}}
+.v5 h2{
+  background:linear-gradient(180deg,#ffffff 0%,#a8d4ff 40%,#5599ff 100%);
+  -webkit-background-clip:text;-webkit-text-fill-color:transparent;
+  filter:drop-shadow(0 0 25px rgba(80,160,255,0.7));
+}
+.v5 p{color:rgba(140,200,255,0.65);}
 <div class="header-block">
   <div class="badge">Option 5 — Arctic Blue ❄️</div>
   <div class="hdr v5">
