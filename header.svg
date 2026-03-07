@@ -300,16 +300,7 @@
       <animate attributeName="x2" values="590;570;590" dur="4s" repeatCount="indefinite"/>
     </line>
 
-    <!-- Subtitle -->
-    <text
-      x="450" y="210"
-      text-anchor="middle"
-      font-family="'Arial', sans-serif"
-      font-weight="400"
-      font-size="15"
-      fill="#b1bac4"
-      letter-spacing="1.5"
-    >Physics-Informed ML  |  Autonomous Systems  |  Quantum AI</text>
+ 
 
     <!-- Bottom tag -->
     <text
