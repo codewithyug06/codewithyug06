@@ -1,8 +1,14 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Yugendhar%20S&fontSize=60" width="100%"/>
-
-</div>
+<div class="header-block">
+  <div class="badge">Option 5 — Arctic Blue ❄️</div>
+  <div class="hdr v5">
+    <h2>Yugendhar S</h2>
+    <p>AI Researcher · Physics ML · Quantum Systems</p>
+  </div>
+  <div class="code-box">
+    <code id="c5">color=0:000814,40:001428,100:000c1f&fontColor=a8d4ff</code>
+    <button class="copy-btn" onclick="copy('c5',this)">Copy</button>
+  </div>
+</div>>
 
 <div align="center">
 
