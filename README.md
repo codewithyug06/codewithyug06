@@ -41,78 +41,7 @@ class Yugendhar:
 
 ---
 
-## ⚡ Signature Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌌 NQ-SKAE
-**Neuromorphic Quantum-Symplectic Koopman Autoencoder**
-
-Fused Symplectic Geometry + CV Quantum Photonic Circuits (PennyLane) to solve long-horizon chaotic fluid simulation. Achieved **MSE 0.00640**, extended Valid Prediction Time beyond **6.5 Lyapunov times**, outperforming LSTM & FNO baselines.
-
-`PyTorch` `PennyLane` `Koopman` `Quantum`
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ Sentinel Prime
-**Sovereign Digital Twin & AI Identity Lifecycle Platform**
-
-UIDAI-scale identity infrastructure using PINNs + Temporal Fusion Transformers + ZKP + Differential Privacy. Flagged **1.2% fraudulent operators** and projected **₹341.49 Cr in fiscal savings**.
-
-`PINNs` `ZKP` `Differential Privacy` `TFT`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎭 Deepfake Detection
-**Hybrid YOLO-Transformer & Multi-Spectral Fusion**
-
-SOTA multi-modal framework: YOLOv11 + FastViT + SimAM attention + DWT frequency-domain features. **93.09% accuracy** at **<2.0ms** inference with only 2.57M parameters.
-
-`YOLOv11` `Vision Transformers` `DWT` `OpenCV`
-
-</td>
-<td width="50%" valign="top">
-
-### 📡 5G AI Routing
-**Minimal Routing for 5G Networks**
-
-Hybrid GAT + DQN model for congestion-aware proactive routing. Trained on **328 hours** of real-world 5G traffic. Achieved **>90% prediction accuracy**, cutting latency vs. traditional shortest-path routing.
-
-`PyTorch Geometric` `GAT` `DQN` `Stable-Baselines3`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚖️ Guardian
-**Autonomous AI Compliance & Risk Intelligence**
-
-Multi-agent LangGraph system with Hybrid Mesh RAG (ChromaDB + NetworkX) + GPT-4o. SHA-256 Merkle Root audit trails. Digital twin "Mirror Node" for zero-downtime patch simulation.
-
-`LangGraph` `RAG` `GPT-4o` `Isolation Forest`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌊 PINN for FSI
-**Physics-Informed NN for Aerodynamic FSI**
-
-Embedded Navier-Stokes equations directly into PyTorch loss function. ANSYS mesh generation + ReduceLROnPlateau solver. Reduced computational overhead **40%** vs. traditional CFD.
-
-`PINNs` `PyTorch` `Navier-Stokes` `ANSYS`
-
-</td>
-</tr>
-</table>
-
----
 
 ## 🛠️ Tech Arsenal
 
@@ -164,30 +93,6 @@ Embedded Navier-Stokes equations directly into PyTorch loss function. ANSYS mesh
 </div>
 
 ---
-
-## 🏆 Certifications
-
-| Certification | Issuer |
-|---|---|
-| Machine Learning Mentorship Program | IIT Kharagpur (Kshitij) & Launched Global |
-| Data Science Internship | Cognifyz Technologies |
-| Fundamentals of ML & AI | AWS Training & Certification |
-| Foundation of Prompt Engineering | Amazon Web Services |
-| GenAI Job Simulation | BCG via Forage |
-| Crash Course in Power BI | Accelerex × Launched Global |
-
----
-
-## 🔬 Research Interests
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  Physics-Informed Deep Learning  ·  Koopman Operator Theory         │
-│  Quantum-Classical Hybrid ML     ·  Computer Vision & ViTs          │
-│  Autonomous Agent Systems        ·  Differential Privacy            │
-│  Chaotic Dynamical Systems       ·  Transformer Architectures       │
-└─────────────────────────────────────────────────────────────────────┘
-```
 
 ---
 
