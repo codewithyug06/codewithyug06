@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000814,40:001428,100:000c1f&height=200&section=header&text=Yugendhar%20S&fontSize=60&fontColor=a8d4ff&fontAlignY=38&desc=AI%20Researcher%20%7C%20Physics-Informed%20ML%20%7C%20Quantum-Classical%20Systems&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
+<div align="center">
+  <img src="header.svg" alt="Yugendhar S" width="100%"/>
+</div>
 
 <div align="center">
 
