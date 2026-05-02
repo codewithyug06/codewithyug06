@@ -180,32 +180,19 @@ class Yugendhar:
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/codewithyug06/codewithyug06/output/github-snake-dark.svg)
-
-> ⚙️ *Set up the snake action: see [setup instructions below](#-snake-setup)*
+> ⚙️ **Snake not visible yet?** Complete the 3-step setup below — it takes 3 minutes and the snake appears automatically every day after.
 
 </div>
 
----
+<details open>
+<summary><b>🔧 3-Step Snake Setup (do this once)</b></summary>
 
-## 📬 Let's Connect
+<br/>
 
-<div align="center">
+**Step 1 — Create the workflow file**
 
-> 💬 *I'm actively looking for AI/ML internships — NLP, LLM, and applied AI at startups.*
-> *I move fast, ship things, and obsess over impact. Let's build something.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hit_me_up-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yugendhar-s/)
-[![Email](https://img.shields.io/badge/Email-yugendhars06@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yugendhars06@gmail.com)
-
-</div>
-
----
-
-<details>
-<summary>⚙️ Snake Setup — click to expand</summary>
-
-Create this file: `.github/workflows/snake.yml` in your profile repo:
+In your profile repo (`codewithyug06/codewithyug06`), create this file:
+`.github/workflows/snake.yml`
 
 ```yaml
 name: Generate Snake
@@ -231,11 +218,38 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-Then go to repo **Settings → Actions → General** → set Workflow permissions to **"Read and write permissions"** → Save. Run the action manually once — the snake appears in ~30 seconds.
+**Step 2 — Enable write permissions**
+
+Go to your profile repo → **Settings** → **Actions** → **General** → scroll to *Workflow permissions* → select **"Read and write permissions"** → **Save**
+
+**Step 3 — Run it manually**
+
+Go to **Actions** tab → click **"Generate Snake"** → click **"Run workflow"** → **Run workflow**
+
+✅ Wait ~30 seconds. Then replace this entire `<details>` block with:
+
+```
+![Snake animation](https://raw.githubusercontent.com/codewithyug06/codewithyug06/output/github-snake-dark.svg)
+```
 
 </details>
 
 ---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+> 💬 *I'm actively looking for AI/ML internships — NLP, LLM, and applied AI at startups.*
+> *I move fast, ship things, and obsess over impact. Let's build something.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hit_me_up-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yugendhar-s/)
+[![Email](https://img.shields.io/badge/Email-yugendhars06@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yugendhars06@gmail.com)
+
+</div>
+
+---
+
 
 <div align="center">
 
