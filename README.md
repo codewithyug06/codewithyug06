@@ -180,9 +180,10 @@ class Yugendhar:
 
 <div align="center">
 
-> ⚙️ **Snake not visible yet?** Complete the 3-step setup below — it takes 3 minutes and the snake appears automatically every day after.
+![Snake animation](https://raw.githubusercontent.com/codewithyug06/codewithyug06/output/github-snake-dark.svg)
 
 </div>
+
 
 ---
 
