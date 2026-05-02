@@ -108,8 +108,7 @@ class Yugendhar:
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=codewithyug06&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithyug06&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
 </div>
 
