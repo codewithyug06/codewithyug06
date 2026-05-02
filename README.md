@@ -109,9 +109,7 @@ class Yugendhar:
 ## 📊 GitHub Analytics
 
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithyug06&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
-</div>
-
+ 
 <div align="center">
   <a href="https://streak-stats.demolab.com">
     <img src="https://streak-stats.demolab.com?user=codewithyug06&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=FF8C00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=c9d1d9" />
