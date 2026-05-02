@@ -61,7 +61,7 @@ class Yugendhar:
 
 | 🏗️ Project | 💡 What it does | 🛠️ Stack | ⭐ |
 |------------|----------------|----------|-----|
-| [**DeadlineOS**](https://github.com/codewithyug06/DeadlineOS) | AI productivity SaaS with live payments | Next.js · Supabase · Claude AI · Razorpay | 🟢 Live |
+| [**PrioryxAI**](https://github.com/codewithyug06/DeadlineOS) | AI productivity SaaS with live payments | Next.js · Supabase · Claude AI · Razorpay | [🟢 Live](https://www.prioryxai.in/) |
 | [**Guardian**](https://github.com/codewithyug06/Guardian) | Agentic safety system with LangGraph + RAG | GPT-4o · LangGraph · FastAPI | 🔬 Active |
 | [**PINN-FSI-Airfoil**](https://github.com/codewithyug06/Pinn-FSI-Airfoil) | Physics-Informed NN — Navier-Stokes in the loss function | PyTorch · NumPy · SciPy | ⭐ 3 |
 | [**Deepfake Detection**](https://github.com/codewithyug06/Deepfake-detection-pipelines) | Ensemble CNN+Transformer for real-time deepfake classification | TensorFlow · OpenCV · Python | 🔬 Research |
