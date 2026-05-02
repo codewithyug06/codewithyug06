@@ -184,56 +184,6 @@ class Yugendhar:
 
 </div>
 
-<details open>
-<summary><b>🔧 3-Step Snake Setup (do this once)</b></summary>
-
-<br/>
-
-**Step 1 — Create the workflow file**
-
-In your profile repo (`codewithyug06/codewithyug06`), create this file:
-`.github/workflows/snake.yml`
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: codewithyug06
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-**Step 2 — Enable write permissions**
-
-Go to your profile repo → **Settings** → **Actions** → **General** → scroll to *Workflow permissions* → select **"Read and write permissions"** → **Save**
-
-**Step 3 — Run it manually**
-
-Go to **Actions** tab → click **"Generate Snake"** → click **"Run workflow"** → **Run workflow**
-
-✅ Wait ~30 seconds. Then replace this entire `<details>` block with:
-
-```
-![Snake animation](https://raw.githubusercontent.com/codewithyug06/codewithyug06/output/github-snake-dark.svg)
-```
-
-</details>
-
 ---
 
 ## 📬 Let's Connect
