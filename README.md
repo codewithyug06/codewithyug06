@@ -110,11 +110,6 @@ class Yugendhar:
 
 
  
-<div align="center">
-  <a href="https://streak-stats.demolab.com">
-    <img src="https://streak-stats.demolab.com?user=codewithyug06&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=FF8C00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=c9d1d9" />
-  </a>
-</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=codewithyug06&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=FF8C00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=c9d1d9" />
