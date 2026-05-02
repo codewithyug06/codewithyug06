@@ -33,7 +33,7 @@ class Yugendhar:
     location = "Chennai, India 🇮🇳"
     
     stack = {
-        "LLM":      ["LangChain", "LangGraph", "RAG", "Claude AI"],
+        "LLM":      ["LangChain", "LangGraph", "RAG"],
         "ML/DL":    ["PyTorch", "TensorFlow", "HuggingFace"],
         "Backend":  ["FastAPI", "Next.js 14", "Supabase"],
         "Infra":    ["Docker", "MLflow", "Upstash Redis"],
@@ -46,51 +46,14 @@ class Yugendhar:
 - 🔨 Building **DeadlineOS** — AI SaaS for Indian students, payments live
 - 🤖 Obsessed with LLMs, agentic systems & RAG pipelines
 - 💼 Ex-Data Science Intern @ **Cognifyz Technologies**
-- 🎯 Looking for **AI/ML / NLP internship** at a fast-moving startup
+- 🎯 Looking for **AI/ML** at a fast-moving startup
 - ⚡ Fun fact: I enforce physics in neural networks for fun
 
 <br clear="right"/>
 
 ---
 
-## 🔨 Currently Building
 
-<table>
-<tr>
-<td width="50%">
-
-### 🗓️ [DeadlineOS](https://github.com/codewithyug06/DeadlineOS)
-**AI Focus & Deadline OS for Students**
-
-> The operating system for your academic life.
-
-- 🤖 Claude AI-powered task intelligence
-- 💳 Razorpay payments — **live in production**
-- ⚡ Real-time sync via Pusher + Upstash Redis
-- 🌐 Full-stack: Next.js 14 + Supabase
-
-`Next.js` `Supabase` `Claude AI` `Razorpay` `Pusher`
-
-</td>
-<td width="50%">
-
-### 🛡️ [Guardian](https://github.com/codewithyug06/Guardian)
-**Multi-Agent Safety & Intelligence System**
-
-> Agentic AI that thinks before it acts.
-
-- 🧠 GPT-4o + LangGraph orchestration
-- 📚 RAG over 10,000+ documents
-- 🔁 Multi-agent pipeline with real-time classification
-- ⚙️ FastAPI backend with async processing
-
-`LangGraph` `RAG` `GPT-4o` `FastAPI` `Python`
-
-</td>
-</tr>
-</table>
-
----
 
 ## 🚀 Project Showcase
 
