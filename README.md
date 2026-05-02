@@ -1,103 +1,246 @@
+<div align="center">
 
+[![capsule-render](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Yugendhar%20S&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20LLM%20Builder%20%E2%80%A2%20Shipping%20Real%20Products&descAlignY=58&descSize=18&descColor=a78bfa)](https://github.com/codewithyug06)
 
+</div>
 
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Building+LLM+products+that+actually+ship+%F0%9F%9A%80;RAG+%C2%B7+LangGraph+%C2%B7+FastAPI+%C2%B7+Next.js+%C2%B7+Supabase;2nd-year+AI+%26+DS+%40+Amrita+Vishwa+Vidyapeetham;Open+to+AI%2FML+Internships+%F0%9F%9F%A2)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF¢er=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Hey%2C+I'm+Yugendhar+%F0%9F%91%8B;Building+LLM+products+that+actually+ship.)](https://git.io/typing-svg)
+</div>
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yugendhar-s/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yugendhars06@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codewithyug06)
-![Profile Views](https://komarev.com/ghpvc/?username=codewithyug06&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)
+[![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2_Open_to-AI%2FML_Internships-6d28d9?style=for-the-badge)](mailto:yugendhars06@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=codewithyug06&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
 
-
-
+</div>
 
 ---
 
-## 👋 About Me
+<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
-AI & Data Science engineer at **Amrita Vishwa Vidyapeetham, Chennai** (B.Tech '28).
+## 🧠 Who am I?
 
-I build practical AI products — the kind that **ship, get users, and make money**.
-Currently deep in LLMs, RAG pipelines, agentic systems, and full-stack SaaS.
-Ex-Data Science Intern @ Cognifyz Technologies.
+```python
+class Yugendhar:
+    name     = "Yugendhar S"
+    role     = "AI/ML Engineer · Builder"
+    location = "Chennai, India 🇮🇳"
+    
+    stack = {
+        "LLM":      ["LangChain", "LangGraph", "RAG", "Claude AI"],
+        "ML/DL":    ["PyTorch", "TensorFlow", "HuggingFace"],
+        "Backend":  ["FastAPI", "Next.js 14", "Supabase"],
+        "Infra":    ["Docker", "MLflow", "Upstash Redis"],
+    }
 
-> 🟢 **Open to AI/ML internships** — NLP, LLM, and applied AI roles at startups.
+    def current_mission(self):
+        return "Ship AI products. Make them real. Make them count."
+```
+
+- 🔨 Building **DeadlineOS** — AI SaaS for Indian students, payments live
+- 🤖 Obsessed with LLMs, agentic systems & RAG pipelines
+- 💼 Ex-Data Science Intern @ **Cognifyz Technologies**
+- 🎯 Looking for **AI/ML / NLP internship** at a fast-moving startup
+- ⚡ Fun fact: I enforce physics in neural networks for fun
+
+<br clear="right"/>
 
 ---
 
 ## 🔨 Currently Building
 
-### [DeadlineOS](https://github.com/codewithyug06/DeadlineOS) — AI Focus & Deadline OS for Students
-`Next.js 14` `Supabase` `Claude AI` `Razorpay` `Pusher` `Upstash Redis`
+<table>
+<tr>
+<td width="50%">
 
-AI-powered productivity SaaS built for Indian college students and junior devs.
-Real-time deadline tracking, AI task intelligence, and a live payment flow.
-**Status: Active development · Razorpay payments live**
+### 🗓️ [DeadlineOS](https://github.com/codewithyug06/DeadlineOS)
+**AI Focus & Deadline OS for Students**
+
+> The operating system for your academic life.
+
+- 🤖 Claude AI-powered task intelligence
+- 💳 Razorpay payments — **live in production**
+- ⚡ Real-time sync via Pusher + Upstash Redis
+- 🌐 Full-stack: Next.js 14 + Supabase
+
+`Next.js` `Supabase` `Claude AI` `Razorpay` `Pusher`
+
+</td>
+<td width="50%">
+
+### 🛡️ [Guardian](https://github.com/codewithyug06/Guardian)
+**Multi-Agent Safety & Intelligence System**
+
+> Agentic AI that thinks before it acts.
+
+- 🧠 GPT-4o + LangGraph orchestration
+- 📚 RAG over 10,000+ documents
+- 🔁 Multi-agent pipeline with real-time classification
+- ⚙️ FastAPI backend with async processing
+
+`LangGraph` `RAG` `GPT-4o` `FastAPI` `Python`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Project Showcase
 
-| Project | What it does | Stack |
-|---------|-------------|-------|
-| [**Guardian**](https://github.com/codewithyug06/Guardian) | Agentic safety system — GPT-4o + LangGraph multi-agent orchestration + RAG over 10K+ docs | Python · LangGraph · RAG · FastAPI |
-| [**PINN-FSI-Airfoil**](https://github.com/codewithyug06/Pinn-FSI-Airfoil) ⭐3 | Physics-Informed NN solving fluid-structure interaction. No simulation data needed — Navier-Stokes enforced in the loss. | PyTorch · PennyLane |
-| [**Deepfake Detection**](https://github.com/codewithyug06/Deepfake-detection-pipelines) | Ensemble CNN + transformer pipeline for real-time deepfake video classification | Python · OpenCV · TensorFlow |
-| [**AI Smart Routing**](https://github.com/codewithyug06/AI-Powered-Smart-Routing-Predicting-and-Avoiding-Network-Bottlenecks) | ML model predicting and rerouting around network bottlenecks before they happen | Python · scikit-learn |
+<div align="center">
+
+| 🏗️ Project | 💡 What it does | 🛠️ Stack | ⭐ |
+|------------|----------------|----------|-----|
+| [**DeadlineOS**](https://github.com/codewithyug06/DeadlineOS) | AI productivity SaaS with live payments | Next.js · Supabase · Claude AI · Razorpay | 🟢 Live |
+| [**Guardian**](https://github.com/codewithyug06/Guardian) | Agentic safety system with LangGraph + RAG | GPT-4o · LangGraph · FastAPI | 🔬 Active |
+| [**PINN-FSI-Airfoil**](https://github.com/codewithyug06/Pinn-FSI-Airfoil) | Physics-Informed NN — Navier-Stokes in the loss function | PyTorch · NumPy · SciPy | ⭐ 3 |
+| [**Deepfake Detection**](https://github.com/codewithyug06/Deepfake-detection-pipelines) | Ensemble CNN+Transformer for real-time deepfake classification | TensorFlow · OpenCV · Python | 🔬 Research |
+| [**AI Smart Routing**](https://github.com/codewithyug06/AI-Powered-Smart-Routing-Predicting-and-Avoiding-Network-Bottlenecks) | Predicts & reroutes around network bottlenecks before they form | scikit-learn · Python | 🔬 Research |
+| [**Sentinel Prime**](https://github.com/codewithyug06/Sentinel_Prime) | Autonomous threat detection & response pipeline | Python · ML | 🔬 Research |
+
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
 
-**LLM & AI**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 🤖 AI / LLM / ML
+
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark)](https://skillicons.dev)
+
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=a78bfa)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-**Full-Stack & MLOps**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
----
+### 🌐 Full-Stack & Cloud
 
-## 📊 GitHub Stats
+[![My Skills](https://skillicons.dev/icons?i=nextjs,fastapi,supabase,firebase,docker&theme=dark)](https://skillicons.dev)
 
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
+### 🔧 Languages & Tools
 
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,linux,matlab&theme=dark)](https://skillicons.dev)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codewithyug06&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&include_all_commits=true&count_private=true)](https://github.com/codewithyug06)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithyug06&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9)](https://github.com/codewithyug06)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=codewithyug06&theme=github-compact&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true)](https://github.com/codewithyug06)
-
-
-
-
----
-
-## 📬 Let's Talk
-
-Open to **AI/ML internships** — especially NLP, LLM, and applied AI at startups.
-I move fast, ship things, and don't wait around.
-
-📧 **yugendhars06@gmail.com**
-💼 [linkedin.com/in/yugendhar-s](https://www.linkedin.com/in/yugendhar-s/)
+</div>
 
 ---
 
+## 📊 GitHub Analytics
 
+<div align="center">
 
-  ⭐ If something here is useful, a star on a repo goes a long way!
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=codewithyug06&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithyug06&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=codewithyug06&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=FF8C00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=c9d1d9)](https://streak-stats.demolab.com)
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=codewithyug06&theme=github-compact&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&hide_border=true&area=true&area_color=a78bfa)](https://github.com/codewithyug06)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=codewithyug06&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/codewithyug06/codewithyug06/output/github-snake-dark.svg)
+
+> ⚙️ *Set up the snake action: see [setup instructions below](#-snake-setup)*
+
+</div>
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+> 💬 *I'm actively looking for AI/ML internships — NLP, LLM, and applied AI at startups.*
+> *I move fast, ship things, and obsess over impact. Let's build something.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hit_me_up-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yugendhar-s/)
+[![Email](https://img.shields.io/badge/Email-yugendhars06@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yugendhars06@gmail.com)
+
+</div>
+
+---
+
+<details>
+<summary>⚙️ Snake Setup — click to expand</summary>
+
+Create this file: `.github/workflows/snake.yml` in your profile repo:
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: codewithyug06
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Then go to repo **Settings → Actions → General** → set Workflow permissions to **"Read and write permissions"** → Save. Run the action manually once — the snake appears in ~30 seconds.
+
+</details>
+
+---
+
+<div align="center">
+
+[![capsule-render](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer&animation=fadeIn)](https://github.com/codewithyug06)
+
+*⭐ If any of my work is useful to you, a star means a lot — it's free and it makes my day.*
+
+</div>
