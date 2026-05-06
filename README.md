@@ -59,18 +59,20 @@ class Yugendhar:
 
 <div align="center">
 
-| 🏗️ Project | 💡 What it does | 🛠️ Stack | ⭐ |
-|------------|----------------|----------|-----|
-| [**PrioryxAI**](https://github.com/codewithyug06/DeadlineOS) | AI productivity SaaS with live payments | Next.js · Supabase · Claude AI · Razorpay | [🟢 Live](https://www.prioryxai.in/) |
-| [**Guardian**](https://github.com/codewithyug06/Guardian) | Agentic safety system with LangGraph + RAG | GPT-4o · LangGraph · FastAPI | 🔬 Active |
-| [**PINN-FSI-Airfoil**](https://github.com/codewithyug06/Pinn-FSI-Airfoil) | Physics-Informed NN — Navier-Stokes in the loss function | PyTorch · NumPy · SciPy | ⭐ 3 |
-| [**Deepfake Detection**](https://github.com/codewithyug06/Deepfake-detection-pipelines) | Ensemble CNN+Transformer for real-time deepfake classification | TensorFlow · OpenCV · Python | 🔬 Research |
-| [**AI Smart Routing**](https://github.com/codewithyug06/AI-Powered-Smart-Routing-Predicting-and-Avoiding-Network-Bottlenecks) | Predicts & reroutes around network bottlenecks before they form | scikit-learn · Python | 🔬 Research |
-| [**Sentinel Prime**](https://github.com/codewithyug06/Sentinel_Prime) | Autonomous threat detection & response pipeline | Python · ML | 🔬 Research |
+| 🏗️ Project | 💡 What it does | 🛠️ Stack | 📊 Highlight |
+|---|---|---|---|
+| [**ARGUS — LLM Safety OS**](https://github.com/codewithyug06/llm-safety-runtime) | Production AI safety system that intercepts unsafe LLM behaviour at the **latent-space level** before a token is emitted — 6 modules, 163 tests, 88% coverage | PyTorch · JAX · LangGraph · Kafka · FastAPI | AUC=1.0 · 0.37ms · 758 req/s |
+| [**Guardian**](https://github.com/codewithyug06/Guardian) | Autonomous **10-agent AI swarm** for real-time financial compliance (PCI-DSS, GDPR, DPDPA) with self-healing code generation & Digital Twin patch simulation | GPT-4o · LangGraph · ChromaDB · FastAPI | Multi-agent · Hybrid RAG · SHA-256 audit trail |
+| [**Adversarial API Arena**](https://github.com/codewithyug06/Adversarial-API-Arena) | Multi-agent RL environment where a task agent queries APIs while an adversary manipulates responses — **8 hack detectors** + anti-reward-hacking safeguards | GRPO · TRL · Unsloth · FastAPI · Docker | Curriculum learning · Meta hackathon |
+| [**Quantum-Symplectic Koopman AE**](https://github.com/codewithyug06/Neuromorphic_Quantum-Symplectic_Koopman_Autoencoder) | Physics-informed hybrid quantum-classical autoencoder learning the **Koopman operator** for chaotic fluid dynamics — zero energy drift over 100K+ recursive steps | PennyLane · PyTorch · SciPy | Symplectic geometry · CV photonic circuits |
+| [**WYT-Net Deepfake Detection**](https://github.com/codewithyug06/Deepfake-detection-pipelines) | Lightweight **Wavelet-YOLO-Transformer** hybrid for real-time deepfake detection on edge devices — only 2.57M parameters | PyTorch · FastViT · OpenCV | 94.44% acc · 8.1ms on Jetson Nano |
+| [**Sentinel Prime**](https://github.com/codewithyug06/Sentinel_Prime) | AI intelligence suite for **UIDAI Aadhaar** lifecycle analytics — Benford's Law fraud detection, PINN demand forecasting & ZKP governance | Python · LSTM · Streamlit · Docker | 2.4M records recovered · ₹341 Cr projected savings |
+| [**HB-FL Heart Disease**](https://github.com/codewithyug06/Hierarchical-Blockchain-Enabled-Secure-Aggregation-Algorithm-for-Federated-Learning-in-Heart-Disease) | Privacy-preserving Federated Learning with **Hierarchical Blockchain** + Proof-of-Quality + Bayesian Time-Decayed Reputation — no patient data ever leaves the hospital | scikit-learn · NumPy · Pandas | 89.8% acc · beats centralized RF (86.7%) |
+| [**Deep Blue**](https://github.com/codewithyug06/Deep-Blue) | Socratic AI coding tutor + **3D AST visualizer** — guides students with questions, not answers. Gamified missions & freemium tiers | Gemini 2.0 Flash · LangChain · React Three Fiber · FastAPI | Real-time 3D code rendering · EdTech SaaS |
+| [**AI Smart Routing**](https://github.com/codewithyug06/AI-Powered-Smart-Routing-Predicting-and-Avoiding-Network-Bottlenecks) | Hybrid **GCN + GAT + LSTM + Curriculum D-DQN** system to predict and avoid network bottlenecks in real time on 5G traffic data | PyTorch · PyG · Jupyter | 99.5% routing success · 60× throughput gain |
+| [**Multi-Block RL Env**](https://github.com/codewithyug06/Multi-Block-RL-Env) | Adversarial multi-block RL training environment that teaches small LLMs to reason step-by-step across task decomposition, code gen & logic — with anti-reward-hacking | Meta OpenEnv · PPO · Llama 3.2 3B · FastAPI | Meta PyTorch Hackathon 2026 |
 
 </div>
-
----
 
 ## 🛠️ Tech Stack
 
