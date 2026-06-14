@@ -43,7 +43,6 @@ class Yugendhar:
         return "Ship AI products. Make them real. Make them count."
 ```
 
-- 🔨 Building **DeadlineOS** — AI SaaS for Indian students, payments live
 - 🤖 Obsessed with LLMs, agentic systems & RAG pipelines
 - 💼 Ex-Data Science Intern @ **Cognifyz Technologies**
 - 🎯 Looking for **AI/ML** at a fast-moving startup
