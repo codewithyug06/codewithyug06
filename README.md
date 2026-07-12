@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Building+LLM+products+that+actually+ship+%F0%9F%9A%80;RAG+%C2%B7+LangGraph+%C2%B7+FastAPI+%C2%B7+Next.js+%C2%B7+Supabase;2nd-year+AI+%26+DS+%40+Amrita+Vishwa+Vidyapeetham;Open+to+AI%2FML+Internships+%F0%9F%9F%A2)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Building+LLM+products+that+actually+ship+%F0%9F%9A%80;RAG+%C2%B7+LangGraph+%C2%B7+FastAPI+%C2%B7+Next.js+%C2%B7+Supabase;3nd-year+AI+%26+DS+%40+Amrita+Vishwa+Vidyapeetham;Open+to+AI%2FML+Internships+%F0%9F%9F%A2)](https://git.io/typing-svg)
 
 </div>
 
