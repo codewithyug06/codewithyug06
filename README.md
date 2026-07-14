@@ -44,9 +44,8 @@ class Yugendhar:
 ```
 
 - 🤖 Obsessed with LLMs, agentic systems & RAG pipelines
-- 💼 Ex-Data Science Intern @ **Cognifyz Technologies**
-- 🎯 Looking for **AI/ML** at a fast-moving startup
-- ⚡ Fun fact: I enforce physics in neural networks for fun
+- 💼 AI/ML Intern @ **Eagle-HiTech Softclou Private Limited**
+- ⚡ Fun fact: I enforce physics and maths in neural networks for fun
 
 <br clear="right"/>
 
