@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Building+LLM+products+that+actually+ship+%F0%9F%9A%80;RAG+%C2%B7+LangGraph+%C2%B7+FastAPI+%C2%B7+Next.js+%C2%B7+Supabase;3nd-year+AI+%26+DS+%40+Amrita+Vishwa+Vidyapeetham;Open+to+AI%2FML+Internships+%F0%9F%9F%A2)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Building+LLM+products+that+actually+ship+%F0%9F%9A%80;RAG+%C2%B7+LangGraph+%C2%B7+FastAPI+%C2%B7+Next.js+%C2%B7+Supabase;3rd-year+AI+%26+DS+%40+Amrita+Vishwa+Vidyapeetham;Open+to+AI%2FML+Internships+%F0%9F%9F%A2)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,36 +22,89 @@
 
 ---
 
-<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+## 🖥️ whoami
 
-## 🧠 Who am I?
+<table>
+<tr>
+<td width="50%">
 
-```python
-class Yugendhar:
-    name     = "Yugendhar S"
-    role     = "AI/ML Engineer · Builder"
-    location = "Chennai, India 🇮🇳"
-    
-    stack = {
-        "LLM":      ["LangChain", "LangGraph", "RAG"],
-        "ML/DL":    ["PyTorch", "TensorFlow", "HuggingFace"],
-        "Backend":  ["FastAPI", "Next.js 14", "Supabase"],
-        "Infra":    ["Docker", "MLflow", "Upstash Redis"],
-    }
-
-    def current_mission(self):
-        return "Ship AI products. Make them real. Make them count."
 ```
 
-- 🤖 Obsessed with LLMs, agentic systems & RAG pipelines
-- 💼 AI/ML Intern @ **Eagle-HiTech Softclou Private Limited**
-- ⚡ Fun fact: I enforce physics and maths in neural networks for fun
+..................     ... .      ........................
+................  .:=+*%%###*+=:..     ...................
+.............   -*#%@@@@@@@@@@%%##*+=-:  .................
+............ .-*@@@@@@@@%@@@@@@@@@@@%%%+:.  ..............
+.............*@@@@@%%%%%%@@@@@@%%@@@@@@@%+-: .............
+............-%@%%@@@%%%%%%%%%%@@@@@@@%@@@@%*-.............
+.......... .*%%%%%%%%@@@%%%@@%%@@@@@%%%@@@@@*: ...........
+...........*@@@@@%%%%%@@@%%%%@@@%@@@%@@@@@%@%: ...........
+......... -@@@@@@@%%%%%%%%%%%%@@@@@@@@@@@@%%%: ...........
+...........#@@@@@@@%%@@%%%%%%%@@@@@@@@@@@@@@*.............
+.......... -%@@@@@@%%@@%%%@%%%@@@@@@@@@@@@@%- ............
+........... =%%@@@%%%@@%@@@@%%@@@@@@@@@@@@@+ .............
+........... .*@%*#%##%%@%@%**#%%%%%###%%#@%=: ............
+............-+%%**+**####**++****##***++*%++=.............
+.......... .+++#+++*+**=+++==+++++++++=++*+==. ...........
+............=++*+========++==++===----=+++++-.............
+........... :+++++==---==++=-=++=----=+++++=..............
+............ -++*++===-==++=-=+======+++++=: .............
+..............-=++++=====+*+++++=====+++-.................
+.............  ..++++=++++++++++++++++++.  ...............
+................ :+++++***+++++**++++++: .................
+................. =*+++++*+++++*++++**+. .................
+................ :++***+++++++++++****+: .................
+............... .+#+++****+++*++**#*++#*.  ...............
+..........   ...-+%*+++**####%%##*+++*%=-:...   ..........
+.....   ...::-----*#+++++*******++=++#+-----:::...  ......
+.  ....::----------*#*++=+++++++===+*+-----------::....  .
+..:::-------------:-+#*+==========+*+--:-------------:::..
+-----------------=**=+**+========+++-=##+=----------------
+-----:---------=**##+==++====---====+*##**+=--------------
+-::------::---===--=++======--==--====----=---------------
+-:::------::---:---:--==-======--==-----------------------
+::::::----::::-:-------------====--------:-:--------------
+:::::::::-::::::::--:::-----==-------------::::-----------
+::::::--::::::::::::-:-::--------------:::------------:---
+::::::::::::-::::----:------::--------:::::---------------
 
-<br clear="right"/>
+```
+
+</td>
+<td width="50%" valign="top">
+
+```yaml
+yugendhar@github:~$ whoami
+
+name:       Yugendhar S
+role:       AI/ML Engineer · Builder
+location:   Chennai, India 🇮🇳
+edu:        B.Tech AI & DS, Amrita Vishwa
+            Vidyapeetham (Grad: Apr 2028)
+role.now:   AI/ML Intern @ Eagle-HiTech
+            Softclou Pvt. Ltd.
+founder:    PrioryxAI — live AI SaaS
+oss:        Kubeflow Trainer · Keras ·
+            OpenRLHF (contributor)
+
+stack:
+  llm:      [LangChain, LangGraph, RAG]
+  ml_dl:    [PyTorch, TensorFlow, HF]
+  backend:  [FastAPI, Next.js 14, Supabase]
+  infra:    [Docker, MLflow, Redis]
+
+mission:    "Ship AI products. Make them
+             real. Make them count."
+
+status:     🟢 open to AI/ML internships
+```
+
+</td>
+</tr>
+</table>
+
+<br clear="both"/>
 
 ---
-
-
 
 ## 🚀 Project Showcase
 
@@ -67,7 +120,6 @@ class Yugendhar:
 | [**Quantum-Symplectic Koopman AE**](https://github.com/codewithyug06/Neuromorphic_Quantum-Symplectic_Koopman_Autoencoder) | Physics-informed hybrid quantum-classical autoencoder learning the **Koopman operator** for chaotic fluid dynamics — zero energy drift over 100K+ recursive steps | PennyLane · PyTorch · SciPy | Symplectic geometry · CV photonic circuits |
 | [**WYT-Net Deepfake Detection**](https://github.com/codewithyug06/Deepfake-detection-pipelines) | Lightweight **Wavelet-YOLO-Transformer** hybrid for real-time deepfake detection on edge devices — only 2.57M parameters | PyTorch · FastViT · OpenCV | 94.44% acc · 8.1ms on Jetson Nano |
 | [**Sentinel Prime**](https://github.com/codewithyug06/Sentinel_Prime) | AI intelligence suite for **UIDAI Aadhaar** lifecycle analytics — Benford's Law fraud detection, PINN demand forecasting & ZKP governance | Python · LSTM · Streamlit · Docker | 2.4M records recovered · ₹341 Cr projected savings |
-
 
 </div>
 
@@ -107,12 +159,8 @@ class Yugendhar:
 
 ## 📊 GitHub Analytics
 
-
- 
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=codewithyug06&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=FF8C00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=c9d1d9" />
-</div>
 </div>
 
 <div align="center">
@@ -141,7 +189,6 @@ class Yugendhar:
 
 </div>
 
-
 ---
 
 ## 📬 Let's Connect
@@ -157,7 +204,6 @@ class Yugendhar:
 </div>
 
 ---
-
 
 <div align="center">
 
