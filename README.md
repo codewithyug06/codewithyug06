@@ -20,6 +20,10 @@
 
 </div>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="450" alt="coder-gif">
+</p>
+
 ---
 
 ## 🖥️ whoami
@@ -30,42 +34,44 @@
 
 ```
 
-..................     ... .      ........................
-................  .:=+*%%###*+=:..     ...................
-.............   -*#%@@@@@@@@@@%%##*+=-:  .................
-............ .-*@@@@@@@@%@@@@@@@@@@@%%%+:.  ..............
-.............*@@@@@%%%%%%@@@@@@%%@@@@@@@%+-: .............
-............-%@%%@@@%%%%%%%%%%@@@@@@@%@@@@%*-.............
-.......... .*%%%%%%%%@@@%%%@@%%@@@@@%%%@@@@@*: ...........
-...........*@@@@@%%%%%@@@%%%%@@@%@@@%@@@@@%@%: ...........
-......... -@@@@@@@%%%%%%%%%%%%@@@@@@@@@@@@%%%: ...........
-...........#@@@@@@@%%@@%%%%%%%@@@@@@@@@@@@@@*.............
-.......... -%@@@@@@%%@@%%%@%%%@@@@@@@@@@@@@%- ............
-........... =%%@@@%%%@@%@@@@%%@@@@@@@@@@@@@+ .............
-........... .*@%*#%##%%@%@%**#%%%%%###%%#@%=: ............
-............-+%%**+**####**++****##***++*%++=.............
-.......... .+++#+++*+**=+++==+++++++++=++*+==. ...........
-............=++*+========++==++===----=+++++-.............
-........... :+++++==---==++=-=++=----=+++++=..............
-............ -++*++===-==++=-=+======+++++=: .............
-..............-=++++=====+*+++++=====+++-.................
-.............  ..++++=++++++++++++++++++.  ...............
-................ :+++++***+++++**++++++: .................
-................. =*+++++*+++++*++++**+. .................
-................ :++***+++++++++++****+: .................
-............... .+#+++****+++*++**#*++#*.  ...............
-..........   ...-+%*+++**####%%##*+++*%=-:...   ..........
-.....   ...::-----*#+++++*******++=++#+-----:::...  ......
-.  ....::----------*#*++=+++++++===+*+-----------::....  .
-..:::-------------:-+#*+==========+*+--:-------------:::..
------------------=**=+**+========+++-=##+=----------------
------:---------=**##+==++====---====+*##**+=--------------
--::------::---===--=++======--==--====----=---------------
--:::------::---:---:--==-======--==-----------------------
-::::::----::::-:-------------====--------:-:--------------
-:::::::::-::::::::--:::-----==-------------::::-----------
-::::::--::::::::::::-:-::--------------:::------------:---
-::::::::::::-::::----:------::--------:::::---------------
+....................           ...........................
+................   ..:-==---:..      .....................
+.............. .:-+*%%@@@@@%%%*+-::....  .................
+............  :*%%@@@@@@@@@@@@@@@%%##*+=.  ...............
+............-+%@@@@%%%%%%@@@@@@@@@@@@%%@#-.. .............
+.......... -%@@@@@%%%%%%%%@@@@@%%@@@@@@@@@*=-. ...........
+...........*@%%@@@@%%%%%%%%%%%@@@@@@@@%@@@@%#=:...........
+......... -#%%%%%%%%@@@%%%%@@%%@@@@@@%%%@@@@@#-...........
+........ -#@@@@@%%%%%@@@%%%%%@@%%@@@@%@@@@@@@@+...........
+....... .#@@@@@@@%%%%%%%%%%%%@@@@@@@@@@@@@@%%@+...........
+.........*@@@@@@@@%%@@%%%%%%%%@@@@@@@@@@@@@@%%=...........
+........ -%@@@@@@@%%@@@%%%%%%%@@@@@@@@@@@@@@%#: ..........
+......... =%%@@@@%%%%@%%%@@%%%@@@@@@@@@@@@@@%- ...........
+...........*%%%%%%%%%@@%@@@%%%@@@@@@@@@@@@%@*. ...........
+.......... :%@#*##*###%%%%****##%%########@%+=............
+......... -+*%#+++**#%#***+==+****%#*#*++*#+++: ..........
+..........=+=*#+++*++*+=+++==+++++++++==++*+=+: ..........
+......... -+++*+========+++==++====----=+++++=. ..........
+...........=+++++==---==+++=-=++=----==++++++: ...........
+.......... :++*++====--=+++=-=+=+==-===++*++=. ...........
+........... -+++++======++*+++*+======+++=-:..............
+...............-++++====+++===+++=+++++++:   .............
+.............  .=+++++****++++++***+++++-.................
+............... .+++++++*++=+=++++++++*+. ................
+................ =*++++++**++***+++++**+. ................
+............... :+++***++++++++++++***+*- ................
+.............. .*#+++*##**++******#*+++#*:. ..............
+.........   ...-+%*++++*#####%%##**+++*%=-:...   .........
+....   ...::-----*#++++++****#**+++=++#+------::...  .....
+  ....::----=-----*#*++++++++++++==++*+-----------::....  
+.:::-------------:-*#*+============+*+-::-------------:::.
+-----------------=+=+**+==========+*+-=+=-----------------
+--::-----------+#%%*==**+=========++==#@%#+=--------------
+--------:----=**==+*+==+====---=====++++==+++=------------
+:-------:----------==+=======-==--===---------------------
+:::-----:::-------:------=-====-===-----------------------
+::::----:::::::--------------===----------:-::------------
+:::::::-:::::::::-:::::-----==--------------::::::--------
 
 ```
 
@@ -110,18 +116,22 @@ status:     🟢 open to AI/ML internships
 
 <div align="center">
 
+*Ranked by depth of engineering, not chronology — flagship first.*
+
 | 🏗️ Project | 💡 What it does | 🛠️ Stack | 📊 Highlight |
 |---|---|---|---|
-| [**ARGUS — LLM Safety OS**](https://github.com/codewithyug06/llm-safety-runtime) | Production AI safety system that intercepts unsafe LLM behaviour at the **latent-space level** before a token is emitted — 6 modules, 163 tests, 88% coverage | PyTorch · JAX · LangGraph · Kafka · FastAPI | AUC=1.0 · 0.37ms · 758 req/s |
-| [**Multi-Block RL Env**](https://github.com/codewithyug06/Multi-Block-RL-Env) | Adversarial multi-block RL training environment that teaches small LLMs to reason step-by-step across task decomposition, code gen & logic — with anti-reward-hacking | Meta OpenEnv · PPO · Llama 3.2 3B · FastAPI | Meta PyTorch Hackathon 2026 |
-| [**Adversarial API Arena**](https://github.com/codewithyug06/Adversarial-API-Arena) | Multi-agent RL environment where a task agent queries APIs while an adversary manipulates responses — **8 hack detectors** + anti-reward-hacking safeguards | GRPO · TRL · Unsloth · FastAPI · Docker | Curriculum learning · Meta hackathon |
-| [**PrioryxAI**](https://github.com/codewithyug06/DeadlineOS) | AI productivity SaaS with live payments | Next.js · Supabase · Claude AI · Razorpay | [🟢 Live](https://www.prioryxai.in/) |
-| [**Guardian**](https://github.com/codewithyug06/Guardian) | Autonomous **10-agent AI swarm** for real-time financial compliance (PCI-DSS, GDPR, DPDPA) with self-healing code generation & Digital Twin patch simulation | GPT-4o · LangGraph · ChromaDB · FastAPI | Multi-agent · Hybrid RAG · SHA-256 audit trail |
-| [**Quantum-Symplectic Koopman AE**](https://github.com/codewithyug06/Neuromorphic_Quantum-Symplectic_Koopman_Autoencoder) | Physics-informed hybrid quantum-classical autoencoder learning the **Koopman operator** for chaotic fluid dynamics — zero energy drift over 100K+ recursive steps | PennyLane · PyTorch · SciPy | Symplectic geometry · CV photonic circuits |
+| 🥇 [**ARGUS — LLM Safety OS**](https://github.com/codewithyug06/llm-safety-runtime) | Production-grade safety runtime that intercepts unsafe LLM behaviour at the **latent-space level**, before a single token ships — 6 modules, 163 tests | PyTorch · JAX · LangGraph · Kafka · FastAPI | **AUC 1.0** · 0.37ms latency · 758 req/s · 88% coverage |
+| 🥈 [**Guardian**](https://github.com/codewithyug06/Guardian) | Autonomous **10-agent AI swarm** running real-time compliance for financial institutions (PCI-DSS, GDPR, DPDPA) — self-healing code + Digital Twin patch simulation | GPT-4o · LangGraph · ChromaDB · FastAPI | Multi-agent · Hybrid RAG · SHA-256 Merkle audit trail |
+| 🥉 [**Sentinel Prime**](https://github.com/codewithyug06/Sentinel_Prime) | AI intelligence suite for **UIDAI Aadhaar** lifecycle analytics — Benford's Law fraud detection, PINN-based demand forecasting, ZKP governance | Python · LSTM · Streamlit · Docker | 2.4M records recovered · ₹341 Cr projected savings |
+| [**PrioryxAI**](https://www.prioryxai.in/) | AI productivity SaaS, self-founded, with live payments in production | Next.js · Supabase · Claude AI · Razorpay | [🟢 Live product](https://www.prioryxai.in/) |
+| [**Multi-Block RL Env**](https://github.com/codewithyug06/Multi-Block-RL-Env) | Adversarial multi-block RL environment teaching small LLMs to reason step-by-step across task decomposition, codegen & logic — anti-reward-hacking built in | Meta OpenEnv · PPO · Llama 3.2 3B · FastAPI | Meta PyTorch Hackathon 2026 |
+| [**Adversarial API Arena**](https://github.com/codewithyug06/Adversarial-API-Arena) | Multi-agent RL arena: a task agent queries APIs while an adversary manipulates responses — **8 hack detectors** + curriculum learning | GRPO · TRL · Unsloth · FastAPI · Docker | Meta hackathon submission |
 | [**WYT-Net Deepfake Detection**](https://github.com/codewithyug06/Deepfake-detection-pipelines) | Lightweight **Wavelet-YOLO-Transformer** hybrid for real-time deepfake detection on edge devices — only 2.57M parameters | PyTorch · FastViT · OpenCV | 94.44% acc · 8.1ms on Jetson Nano |
-| [**Sentinel Prime**](https://github.com/codewithyug06/Sentinel_Prime) | AI intelligence suite for **UIDAI Aadhaar** lifecycle analytics — Benford's Law fraud detection, PINN demand forecasting & ZKP governance | Python · LSTM · Streamlit · Docker | 2.4M records recovered · ₹341 Cr projected savings |
+| [**Quantum-Symplectic Koopman AE**](https://github.com/codewithyug06/Neuromorphic_Quantum-Symplectic_Koopman_Autoencoder) | Physics-informed hybrid quantum-classical autoencoder learning the **Koopman operator** for chaotic fluid dynamics — zero energy drift over 100K+ recursive steps | PennyLane · PyTorch · SciPy | Symplectic geometry · CV photonic circuits |
 
 </div>
+
+<sub>⚠️ Couldn't pull live star/fork counts to rank this automatically — GitHub's public API was rate-limited from this session. Ranked above by technical depth and benchmarked results instead (ARGUS's AUC=1.0 + throughput numbers make it the clear flagship). Re-run `gh repo list codewithyug06 --json name,stargazerCount --sort stars` locally if you want the actual star-sorted order.</sub>
 
 ## 🛠️ Tech Stack
 
@@ -159,15 +169,69 @@ status:     🟢 open to AI/ML internships
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=codewithyug06&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=FF8C00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=c9d1d9" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=codewithyug06&label=Profile%20Views&color=7c3aed&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/codewithyug06?label=Followers&style=flat&color=a78bfa" alt="Followers" />
+</p>
 
-<div align="center">
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-stats-extended.vercel.app/api?username=codewithyug06&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github"
+        alt="GitHub Stats"
+        width="100%"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://streak-stats.demolab.com?user=codewithyug06&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=FF8C00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=c9d1d9"
+        alt="GitHub Streak"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=codewithyug06&theme=github-compact&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&hide_border=true&area=true&area_color=a78bfa)](https://github.com/codewithyug06)
+<table align="center" width="100%">
+  <tr>
+    <td width="75%" align="center">
+      <h3>📈 Contribution Activity</h3>
+      <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=codewithyug06&theme=tokyo-night&hide_border=true&area=true&height=180"
+        alt="Contribution Activity"
+        width="100%"
+      />
+    </td>
+    <td width="25%" align="center">
+      <h3>📌 Overview</h3>
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codewithyug06&theme=tokyonight"
+        alt="GitHub Overview"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codewithyug06&theme=tokyonight"
+        alt="Languages by Repository"
+        width="100%"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codewithyug06&theme=tokyonight"
+        alt="Languages by Commit"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
