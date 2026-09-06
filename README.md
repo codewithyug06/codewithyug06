@@ -26,7 +26,7 @@
 
 ---
 
-## 🖥️ whoami
+## 🖥️ WHO AM I
 
 <table>
 <tr>
