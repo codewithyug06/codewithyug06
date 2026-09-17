@@ -1,6 +1,6 @@
 <div align="center">
 
-[![capsule-render](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Yugendhar%20S&fontSize=60&fontColor=ffffff&fontAlignY=50&animation=fadeIn&desc=AI%20Engineer%20%C2%B7%20Builder%20%C2%B7%20Shipping%20Real%20Products&descSize=18&descColor=a78bfa&descAlignY=65)](https://github.com/codewithyug06)
+[![capsule-render](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Yugendhar%20S&fontSize=54&fontColor=ffffff&fontAlignY=34&animation=fadeIn&desc=AI%20Engineer%20%C2%B7%20Builder%20%C2%B7%20Shipping%20Real%20Products&descSize=16&descColor=a78bfa&descAlignY=60)](https://github.com/codewithyug06)
 
 <img src="./ascii.svg" width="460" alt="Yugendhar S, drawn in ASCII"/>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=110&lines=Building+LLM+products+that+actually+ship+%F0%9F%9A%80;RAG+%C2%B7+LangGraph+%C2%B7+FastAPI+%C2%B7+Next.js;Open-source+contributor%3A+Kubeflow+%C2%B7+Keras+%C2%B7+OpenRLHF;Founder+%40+PrioryxAI+%E2%80%94+live+SaaS+in+production;B.Tech+AI+%26+DS+%40+Amrita+Vishwa+Vidyapeetham)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=160&lines=Building+LLM+products+that+actually+ship+%F0%9F%9A%80;RAG+%C2%B7+LangGraph+%C2%B7+FastAPI+%C2%B7+Next.js;Open-source+contributor%3A+Kubeflow+%C2%B7+Keras+%C2%B7+OpenRLHF;Founder+%40+PrioryxAI+%E2%80%94+live+SaaS+in+production;B.Tech+AI+%26+DS+%40+Amrita+Vishwa+Vidyapeetham)](https://git.io/typing-svg)
 
 </div>
 
@@ -25,7 +25,7 @@
 
 ---
 
-##  Who Am I
+## Who Am I
 
 <table>
 <tr>
@@ -81,11 +81,11 @@ status    → 🟢 Open to AI/ML internships
 
 ---
 
-##  Featured Project
+## Featured Project
 
 <div align="center">
 
-> ###  PrioryxAI — AI SaaS, self-founded & live
+> ### PrioryxAI — AI SaaS, self-founded & live
 >
 > AI productivity platform with live payments in production.
 > Built with **Next.js 14 · Supabase · Claude AI · Razorpay**
@@ -96,7 +96,7 @@ status    → 🟢 Open to AI/ML internships
 
 ---
 
-##  Open Source Contributions
+## Open Source Contributions
 
 | Project | Contribution | Link |
 |:---|:---|:---:|
@@ -106,7 +106,7 @@ status    → 🟢 Open to AI/ML internships
 
 ---
 
-##  GitHub Analytics
+## GitHub Analytics
 
 <table align="center" width="100%">
   <tr>
@@ -137,7 +137,7 @@ status    → 🟢 Open to AI/ML internships
   width="100%"
 />
 
-###  GitHub Trophies
+### GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=codewithyug06&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -155,7 +155,7 @@ status    → 🟢 Open to AI/ML internships
 
 ---
 
-##  Connect
+## Connect
 
 <div align="center">
 
