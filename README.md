@@ -41,8 +41,8 @@ edu       → B.Tech AI & DS
             Amrita Vishwa Vidyapeetham
             (Grad: Apr 2028)
 
-work.now  → AI/ML Intern
-            Eagle-HiTech Softclou Pvt. Ltd.
+work.now  → RL & ROS2 Intern
+            GoMyRobot
 
 founder   → PrioryxAI (prioryxai.in)
             Live payments · Real users
