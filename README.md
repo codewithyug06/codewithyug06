@@ -25,7 +25,7 @@
 
 ---
 
-## 🖥️ Who Am I
+##  Who Am I
 
 <table>
 <tr>
@@ -81,11 +81,11 @@ status    → 🟢 Open to AI/ML internships
 
 ---
 
-## 🚀 Featured Project
+##  Featured Project
 
 <div align="center">
 
-> ### 🏢 PrioryxAI — AI SaaS, self-founded & live
+> ###  PrioryxAI — AI SaaS, self-founded & live
 >
 > AI productivity platform with live payments in production.
 > Built with **Next.js 14 · Supabase · Claude AI · Razorpay**
@@ -96,7 +96,7 @@ status    → 🟢 Open to AI/ML internships
 
 ---
 
-## 🌍 Open Source Contributions
+##  Open Source Contributions
 
 | Project | Contribution | Link |
 |:---|:---|:---:|
@@ -106,7 +106,7 @@ status    → 🟢 Open to AI/ML internships
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <table align="center" width="100%">
   <tr>
@@ -129,7 +129,7 @@ status    → 🟢 Open to AI/ML internships
 
 <div align="center">
 
-### 📈 Contribution Activity
+### Contribution Activity
 
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=codewithyug06&theme=tokyo-night&hide_border=true&area=true&height=180"
@@ -137,7 +137,7 @@ status    → 🟢 Open to AI/ML internships
   width="100%"
 />
 
-### 🏆 GitHub Trophies
+###  GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=codewithyug06&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -155,7 +155,7 @@ status    → 🟢 Open to AI/ML internships
 
 ---
 
-## 📬 Connect
+##  Connect
 
 <div align="center">
 
