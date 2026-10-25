@@ -2,7 +2,7 @@
 
 [![capsule-render](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Yugendhar%20S&fontSize=54&fontColor=ffffff&fontAlignY=34&animation=fadeIn&desc=AI%20Engineer%20%C2%B7%20Builder%20%C2%B7%20Shipping%20Real%20Products&descSize=16&descColor=a78bfa&descAlignY=60)](https://github.com/codewithyug06)
 
-<img src="./ascii.svg" width="460" alt="Yugendhar S, drawn in ASCII"/>
+<img src="./avatar_generated.png" width="300" alt="Avatar"/>
 
 </div>
 
